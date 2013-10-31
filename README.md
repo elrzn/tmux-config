@@ -10,19 +10,19 @@ Installation
   Download:
 
 ```bash
-git clone https://github.com/tony/tmux-config.git ~/.tmux-tony
+git clone git@github.com:elrzn/tmux-config.git ~/.tmux-elrzn
 ```
 
   Copy tmux config to home:
 
 ```bash
-ln -s ~/.tmux-tony/.tmux.conf ~/.tmux.conf
+ln -s ~/.tmux-elrzn/.tmux.conf ~/.tmux.conf
 ```
 
   Go to config dir:
 
 ```bash
-cd ~/.tmux-tony
+cd ~/.tmux-elrzn
 ```
 
 Stats
